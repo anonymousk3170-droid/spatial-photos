@@ -1,0 +1,7 @@
+{
+  "name": "Spatial Hand-Tracked Showreel",
+  "description": "An infinite spatial image canvas navigable via webcam hand gestures (pinch-to-drag) or mouse.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
